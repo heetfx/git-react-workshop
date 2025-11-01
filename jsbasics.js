@@ -1,7 +1,7 @@
 //console.log("hello world");
 
-let namee = "heet";
-let age = 18;
+// let namee = "heet";
+// let age = 18;
 
 // console.log(namee)
 // console.log(age)
